@@ -5,3 +5,5 @@
 - spacy
 - PyPDF2
 - transformers
+## Run the file(ipynb given)
+Change the path where your resume located
